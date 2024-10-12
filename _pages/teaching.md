@@ -13,7 +13,7 @@ redirect_from:
 
 ---
 
-## _Instructor_  
+## <font color=#ff0000>_Instructor_ </font> 
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 
