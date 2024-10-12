@@ -1,3 +1,10 @@
+body {
+  font-family: 'OpenSans';
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.5;
+}
+
 @font-face {
     font-family: 'OpenSans-Light';
     src: url('/OpenSansFonts/OpenSans-Light.ttf') format('truetype');
