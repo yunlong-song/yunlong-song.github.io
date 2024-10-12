@@ -13,4 +13,4 @@ redirect_from:
 ---
 
 ## _Working Papers_
-[aa](http://yunlong-song.github.io/files/paper1.pdf)
+1. The Long and Short Run Spatial Impacts of Trade (With [Lin Ma](https://lin-ma.com/index.html#/) and [Tang Yang](http://www.yang-tang.net/)
