@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my [CV](http://yunlong-song.github.io/files/paper1.pdf) here. 
+Please find my [CV](http://yunlong-song.github.io/files/CV-SongYunlong_web.pdf) here. 
