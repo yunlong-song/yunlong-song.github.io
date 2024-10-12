@@ -11,8 +11,7 @@ redirect_from:
 
 # Instructor
     
-======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 
-# Teaching
+# Teaching Assistant
