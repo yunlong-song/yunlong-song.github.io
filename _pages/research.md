@@ -13,5 +13,5 @@ redirect_from:
 ---
 
 ### Working Papers
-1. The Long and Short Run Spatial Impacts of Trade (with [Lin Ma](https://lin-ma.com/index.html#/) and [Tang Yang](http://www.yang-tang.net/))
+1. [The Long and Short Run Spatial Impacts of Trade](http://yunlong-song.github.io/files/Factor_accumulation.pdf) (with [Lin Ma](https://lin-ma.com/index.html#/) and [Tang Yang](http://www.yang-tang.net/))
 2. The Spatial General Equilibrium Impacts of Inward FDI (with [Lin Ma](https://lin-ma.com/index.html#/))
